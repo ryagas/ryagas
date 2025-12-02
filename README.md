@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Ryan 👋
+
+### Some info about me:
+
+- 🔭 I’m currently working on: improving internal infrastructure code for DreamHost
+- 🌱 I’m currently learning: Modern backend development
 
 <!--
 **ryagas/ryagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
